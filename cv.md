@@ -1,107 +1,78 @@
 # Martin Melody
 
 **Location:** Drumfad, Moneygold, Grange, Co. Sligo, F91 KV18  
-**Phone:** 085 222 3342  
-**Email:** martinmelody.work@gmail.com  
-**GitHub:** [GitHub](https://github.com/MartinMelody)  
-**LinkedIn:** [LinkedIn](https://www.linkedin.com/in/martinmelody/)
+085 222 3342 | martinmelody.work@gmail.com  
+[LinkedIn](https://www.linkedin.com/in/martinmelody) | [GitHub](https://github.com/MartinMelody)
 
 ---
 
-## Professional Profile
+## Summary
 
-Junior software developer with strong foundations in C#, .NET Core, and Angular. Hands-on experience with Azure DevOps, CI/CD pipelines, and full-stack development across academic, personal, and professional projects. Completed a 6-month internship at the Department of Social Protection in Sligo, contributing to backend development, DevOps automation, and Agile team collaboration. Currently building _LogIt_, a cross-platform workout tracking app using modern tooling (React, Vite, Capacitor, SQLite). Seeking a full-time, long-term role to grow with a collaborative and forward-thinking team.
+Junior Software Developer with experience in C#, .NET Web API, and Angular. Interned with the Department of Social Protection, contributing to backend features, CI/CD pipelines, and testing. Currently building _LogIt_, a modern cross-platform workout app using React, Capacitor, and SQLite.
 
 ---
 
 ## Technical Skills
 
-**Languages:**  
-C#, TypeScript, LINQ, SQL, HTML, SCSS
-
-**Backend:**  
-ASP.NET Core, Web API, Entity Framework Core, Naked Objects Framework
-
-**Frontend:**  
-Angular (v12+), TypeScript, HTML/SCSS  
-React (learning), Svelte (learning)
-
-**Cloud & DevOps:**  
-Azure App Services, Blob Storage, Cosmos DB, Virtual Machines  
-Azure DevOps (CI/CD, task tracking), Git, PowerShell
-
-**Security & Auth:**  
-Basic security knowledge from college project (OWASP ZAP, insecure app design)
-
-**Testing & Tooling:**  
-Unit and integration testing (college & placement), Swagger (project use)
-
-**Development Tools:**  
-Visual Studio, VS Code, Neovim, internal wikis
+**Languages:** C#, TypeScript, SQL  
+**Frontend:** Angular, Ionic, HTML/SCSS  
+**Backend:** .NET Web API, Entity Framework Core, Express  
+**Databases:** PostgreSQL, SQL Server, Cosmos DB, MongoDB  
+**Cloud & DevOps:** Azure VMs, Blob Storage, CI/CD (Azure DevOps), Git, PowerShell  
+**Other:** Penetration Testing (OWASP ZAP), Unit Testing, Tiptap Editor
 
 ---
 
 ## Experience
 
-### Software Developer Intern
+**Software Developer Intern**  
+_Department of Social Protection – Sligo_ | _Apr 2023 – Sep 2023_
 
-**Department of Social Protection, Sligo**  
-_April 2023 – September 2023_
-
-- Developed backend functionality in C# using .NET Web API and the Naked Objects framework
-- Used Azure DevOps for CI/CD pipelines and wrote build scripts using PowerShell
-- Participated in code reviews, team meetings, and paired programming
-- Contributed to testing and optimizing legacy systems as part of an Agile team
-- Exposure to internal wikis and documentation processes
+- Built and optimized backend services with C#, .NET Web API, and Naked Objects
+- Automated builds with PowerShell and maintained CI/CD in Azure DevOps
+- Created partial databases for dev/testing; contributed to legacy code refactors
+- Collaborated via pair programming and worked cross-functionally with contractors
 
 ---
 
-## Personal Projects
+## Projects
 
-### **LogIt – Cross-Platform Workout Tracking App** _(In Progress)_
+**LogIt – Cross-Platform Workout Tracker**  
+_React, Vite, Capacitor, SQLite, Tiptap_
 
-React + Vite + Capacitor + SQLite + Tiptap
+- Offline-first workout planner with split scheduling, Markdown editor, and custom drag-and-drop UI
+- Supports local storage and self-hosting; demonstrates modern tooling and full-stack app architecture
+- [GitHub](https://github.com/LogIt-FitnessApp) (Private repo or demo available on request)
 
-- Full-stack workout journal and planner with offline-first support and optional self-hosting
-- Includes a custom Markdown-based editor and planned support for secure local data storage
-- Features drag-and-drop UI, dynamic workout templates, and split scheduling
-- Demonstrates practical use of modern web tooling, local database integration, and cross-platform workflows
+**E-Learning App** _(Capstone)_  
+_Ionic Angular, Express, Cosmos DB, Azure VM/Blob_
 
-### **E-Learning App** _(Capstone Project)_
+- Designed and deployed a responsive mobile/web education platform with cloud hosting
+- Integrated CI/CD using Azure DevOps and managed deployments
 
-Ionic Angular + Express API + Azure Cosmos DB
+**Insecure Web App** _(PenTesting Project)_  
+_Angular, .NET Web API, PostgreSQL_
 
-- Designed and deployed a cross-platform mobile/web application for remote learning
-- Deployed app using Azure VMs, Blob Storage, and Azure DevOps for CI/CD
-- Gained experience with real-world cloud infrastructure and scalability
-
-### **Insecure Web App (PenTest Project)**
-
-Angular + .NET Web API + PostgreSQL + OWASP ZAP
-
-- Developed a deliberately vulnerable application to explore web security principles
-- Performed penetration testing and wrote a full vulnerability remediation report
+- Built a deliberately vulnerable full-stack app to test using OWASP ZAP
+- Delivered a vulnerability assessment report with mitigation steps
 
 ---
 
 ## Education
 
 **BSc (Hons) in Software Development**  
-Atlantic Technological University (ATU), Sligo  
-_Graduated: May 2024_
+Atlantic Technological University, Sligo | _May 2024_
 
 ---
 
 ## Other Work
 
-**Commis Chef**  
-Langs Bar & Restaurant, Grange  
-_March 2018 – Present_
-
-- Maintained strong communication, teamwork, and reliability in a high-pressure environment
+**Commis Chef – Langs Bar & Restaurant**  
+_Grange, Sligo_ | _2018 – Present_  
+Supported high-volume kitchen operations while pursuing software development studies.
 
 ---
 
 ## References
 
-Available upon request.
+Available on request
