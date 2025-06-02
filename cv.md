@@ -1,6 +1,6 @@
 # Martin Melody
 
-**Location:** Drumfad, Moneygold, Grange, Co. Sligo, F91 KV18  
+**Location:** Grange, Co. Sligo  
 **Phone:** 085 222 3342  
 **Email:** martinmelody.work@gmail.com  
 **GitHub:** [GitHub](https://github.com/MartinMelody)  
@@ -10,7 +10,7 @@
 
 ## Professional Profile
 
-Junior software developer with strong foundations in C#, .NET Core, and Angular. Hands-on experience with Azure DevOps, CI/CD pipelines, and full-stack development across academic, personal, and professional projects. Completed a 6-month internship at the Department of Social Protection in Sligo, contributing to backend development, DevOps automation, and Agile team collaboration. Currently building _LogIt_, a cross-platform workout tracking app using modern tooling (React, Vite, Capacitor, SQLite). Seeking a full-time, long-term role to grow with a collaborative and forward-thinking team.
+Software development graduate with strong foundations in C#, .NET Core, and Angular. Experience with Azure DevOps, CI/CD pipelines, and full-stack development across academic, personal, and professional projects. Completed a 6-month internship at the Department of Social Protection in Sligo, contributing to backend development, DevOps automation, and Agile team collaboration. Currently building _LogIt_, a cross-platform workout tracking app using modern tooling.
 
 ---
 
@@ -31,7 +31,7 @@ Azure App Services, Blob Storage, Cosmos DB, Virtual Machines
 Azure DevOps (CI/CD, task tracking), Git, PowerShell
 
 **Security & Auth:**  
-Basic security knowledge from college project (OWASP ZAP, insecure app design)
+Basic security knowledge from a college project (OWASP ZAP, insecure app design)
 
 **Testing & Tooling:**  
 Unit and integration testing (college & placement), Swagger (project use)
@@ -41,18 +41,26 @@ Visual Studio, VS Code, Neovim, internal wikis
 
 ---
 
-## Experience
+## Relevant Work Experience
 
 ### Software Developer Intern
 
 **Department of Social Protection, Sligo**  
 _April 2023 – September 2023_
 
-- Developed backend functionality in C# using .NET Web API and the Naked Objects framework
-- Used Azure DevOps for CI/CD pipelines and wrote build scripts using PowerShell
-- Participated in code reviews, team meetings, and paired programming
-- Contributed to testing and optimizing legacy systems as part of an Agile team
-- Exposure to internal wikis and documentation processes
+- Develop backend functionality in C# using .NET Web API and the Naked Objects framework
+- Use Azure DevOps for CI/CD pipelines and write build scripts using PowerShell
+- Participate in code reviews, team meetings, and pair programming
+- Contribute to testing and optimizing legacy systems as part of an Agile team
+- Work with internal wikis and documentation
+
+---
+
+## Education
+
+**BSc (Hons) in Software Development**  
+Atlantic Technological University (ATU), Sligo  
+_Graduated: May 2024_
 
 ---
 
@@ -72,33 +80,27 @@ React + Vite + Capacitor + SQLite + Tiptap
 Ionic Angular + Express API + Azure Cosmos DB
 
 - Designed and deployed a cross-platform mobile/web application for remote learning
-- Deployed app using Azure VMs, Blob Storage, and Azure DevOps for CI/CD
+- Deployed the app using Azure VMs, Blob Storage, and Azure DevOps for CI/CD
 - Gained experience with real-world cloud infrastructure and scalability
 
 ### **Insecure Web App (PenTest Project)**
 
 Angular + .NET Web API + PostgreSQL + OWASP ZAP
 
-- Developed a deliberately vulnerable application to explore web security principles
+- Built a deliberately vulnerable application to explore web security principles
 - Performed penetration testing and wrote a full vulnerability remediation report
 
 ---
 
-## Education
-
-**BSc (Hons) in Software Development**  
-Atlantic Technological University (ATU), Sligo  
-_Graduated: May 2024_
-
----
-
-## Other Work
+## Current Work
 
 **Commis Chef**  
 Langs Bar & Restaurant, Grange  
 _March 2018 – Present_
 
-- Maintained strong communication, teamwork, and reliability in a high-pressure environment
+- Prepare ingredients and assist with food service
+- Work closely with a team where most speak English as a second language
+- Stay flexible during service and switch tasks quickly when needed
 
 ---
 
