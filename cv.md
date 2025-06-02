@@ -48,11 +48,11 @@ Visual Studio, VS Code, Neovim, internal wikis
 **Department of Social Protection, Sligo**  
 _April 2023 – September 2023_
 
-- Develop backend functionality in C# using .NET Web API and the Naked Objects framework
-- Use Azure DevOps for CI/CD pipelines and write build scripts using PowerShell
-- Participate in code reviews, team meetings, and pair programming
-- Contribute to testing and optimizing legacy systems as part of an Agile team
-- Work with internal wikis and documentation
+- Developed backend functionality in C# using .NET Web API and the Naked Objects framework
+- Used Azure DevOps for CI/CD pipelines and write build scripts using PowerShell
+- Participated in code reviews, team meetings, and pair programming
+- Contributed to testing and optimizing legacy systems as part of an Agile team
+- Worked with internal wikis and documentation
 
 ---
 
