@@ -5,7 +5,7 @@
 **Email:** <martinmelody.work@gmail.com>  
 **GitHub:** [https://github.com/MartinMelody](https://github.com/MartinMelody)  
 **LinkedIn:** [https://www.linkedin.com/in/martinmelody/](https://www.linkedin.com/in/martinmelody/)
-**Portfolio:** [https://martinmelody.dev](https://martinmelody.dev)
+**Portfolio:** [https://martinmelody.ie](https://martinmelody.ie)
 
 ## Professional Summary
 
