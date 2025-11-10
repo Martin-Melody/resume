@@ -7,10 +7,6 @@
 **LinkedIn:** [https://www.linkedin.com/in/martinmelody/](https://www.linkedin.com/in/martinmelody/)
 **Portfolio:** [https://martin-melody.ie](https://martin-melody.ie)
 
-## Professional Summary
-
-Software development graduate with strong foundations in C#, .NET Core, and Angular. Experience with Azure DevOps, CI/CD pipelines, and full-stack development across academic, personal, and professional projects. Completed a 6-month internship at the Department of Social Protection in Sligo, contributing to backend development, DevOps automation, and Agile team collaboration. Currently building _LogIt_, a cross-platform workout tracking app using modern tooling.
-
 ## Technical Skills
 
 **Languages:** C#, TypeScript, SQL, LINQ, HTML, SCSS  
