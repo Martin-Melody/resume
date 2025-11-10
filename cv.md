@@ -51,6 +51,7 @@ _Langs Bar & Restaurant, Grange | Mar 2018 – Present_
 **Home Server**
 
 - Ubuntu Server running Docker containers for Bitwarden and Penpot.
+- Syncthing configured for secure cross-device file synchronization.
 - Configured DNS with scheduled IP updates and TailScale for secure remote access.
 - Planning pfSense-based VLAN segmentation and reverse-proxy architecture for network isolation.
 
