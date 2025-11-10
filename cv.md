@@ -22,7 +22,7 @@
 
 ## Experience
 
-**Volunteer IT Support**  
+**Freelance IT Support**  
 _Local Hair Salon, Sligo | Oct 2025_
 
 - Upgraded two Windows 10 PCs to Windows 11 to maintain compatibility with Phorest salon software.
@@ -37,12 +37,19 @@ _Department of Social Protection, Sligo | Apr – Sep 2023_
 - Collaborated in Agile team workflows, participated in code reviews, and pair programming
 - Contributed to testing and internal documentation.
 
-**Commis Chef**  
-_Langs Bar & Restaurant, Grange | Mar 2018 – Present_
+**Chef**  
+_Langs Bar & Restaurant, Grange, Sligo | Mar 2018 – Present_
 
 - Worked collaboratively in a busy kitchen environment.
 - Communicated effectively in a multilingual team.
 - Adapted quickly to changing priorities during service.
+
+**Chef**  
+_Anois Café, Cliffoney, Sligo | Oct 2025 – Present_
+
+- Work independently to prepare and serve food in a small café environment.
+- Handle kitchen setup, cleaning, and ingredient preparation.
+- Manage stock levels and ensure food is prepared on time.
 
 ---
 
