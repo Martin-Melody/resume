@@ -22,17 +22,15 @@
 
 ## Experience
 
-**Volunteer IT Support**
-: _Local Hair Salon, Sligo_
-: _Oct 2025_
+**Volunteer IT Support**  
+_Local Hair Salon, Sligo | Oct 2025_
 
 - Upgraded two Windows 10 PCs to Windows 11 to maintain compatibility with Phorest salon software.
 - Created full system backups before installation.
 - Advised on hardware replacement and using Microsoft 365 (OneDrive, SharePoint) for data protection.
 
 **Software Developer Intern**  
-: **Department of Social Protection, Sligo**  
-: **Apr 2023 – Sep 2023**
+_Department of Social Protection, Sligo | Apr – Sep 2023_
 
 - Developed backend functionality in C# using .NET Web API and the Naked Objects framework
 - Automated deployments and builds with Azure DevOps and PowerShell
@@ -40,8 +38,7 @@
 - Contributed to testing and internal documentation.
 
 **Commis Chef**  
-: **Langs Bar & Restaurant, Grange**  
-: **Mar 2018 – Present**
+_Langs Bar & Restaurant, Grange | Mar 2018 – Present_
 
 - Worked collaboratively in a busy kitchen environment.
 - Communicated effectively in a multilingual team.
@@ -62,7 +59,6 @@
 ## Education
 
 **BSc (Hons) in Software Development**  
-: **Atlantic Technological University (ATU), Sligo**  
-: **Graduated: May 2024**
+_Atlantic Technological University (ATU), Sligo | Graduated May 2024_
 
 ---
