@@ -49,14 +49,6 @@
 
 ---
 
-## Education
-
-**BSc (Hons) in Software Development**  
-: **Atlantic Technological University (ATU), Sligo**  
-: **Graduated: May 2024**
-
----
-
 ## Projects
 
 **Home Server**
@@ -64,5 +56,13 @@
 - Ubuntu Server running Docker containers for Bitwarden and Penpot.
 - Configured DNS with scheduled IP updates and TailScale for secure remote access.
 - Planning pfSense-based VLAN segmentation and reverse-proxy architecture for network isolation.
+
+---
+
+## Education
+
+**BSc (Hons) in Software Development**  
+: **Atlantic Technological University (ATU), Sligo**  
+: **Graduated: May 2024**
 
 ---
