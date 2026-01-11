@@ -3,7 +3,7 @@
 **Location:** Grange, Co. Sligo
 **Phone:** 085 222 3342  
 **Email:** <martinmelody.work@gmail.com>  
-**GitHub:** [https://github.com/MartinMelody](https://github.com/MartinMelody)  
+**GitHub:** [https://github.com/Martin-Melody](https://github.com/Martin-Melody)  
 **LinkedIn:** [https://www.linkedin.com/in/martinmelody/](https://www.linkedin.com/in/martinmelody/)
 **Portfolio:** [https://martin-melody.ie](https://martin-melody.ie)
 
