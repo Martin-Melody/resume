@@ -1,76 +1,114 @@
 # Martin Melody
 
-**Location:** Grange, Co. Sligo
-**Phone:** 085 222 3342  
-**Email:** <martinmelody.work@gmail.com>  
-**GitHub:** [https://github.com/Martin-Melody](https://github.com/Martin-Melody)  
-**LinkedIn:** [https://www.linkedin.com/in/martinmelody/](https://www.linkedin.com/in/martinmelody/)
-**Portfolio:** [https://martin-melody.ie](https://martin-melody.ie)
+ Grange, Co. Sligo, Ireland
+ 085 222 3342  
+ <martinmelody.work@gmail.com>  
+ GitHub: <https://github.com/Martin-Melody>  
+ LinkedIn: <https://www.linkedin.com/in/martinmelody/>  
+ Portfolio: <https://martin-melody.ie>  
+
+---
 
 ## Professional Summary
 
-Software development graduate with strong foundations in C#, .NET Core, and Angular. Experience with Azure DevOps, CI/CD pipelines, and full-stack development across academic, personal, and professional projects. Completed a 6-month internship at the Department of Social Protection in Sligo, contributing to backend development, DevOps automation, and Agile team collaboration. Currently building _LogIt_, a cross-platform workout tracking app using modern tooling.
+Junior .NET Developer and recent Software Development graduate with strong foundations in **C#, ASP.NET Core, REST APIs, Entity Framework, and LINQ**. Completed a 6-month internship at the Department of Social Protection, contributing to backend development, CI/CD automation, and Agile team delivery. Comfortable working across backend and frontend codebases (TypeScript, HTML, CSS) and highly motivated to grow within an international development team.
+
+---
 
 ## Technical Skills
 
-**Languages:** C#, TypeScript, SQL, LINQ, HTML, SCSS  
-**Backend:** ASP.NET Core, Web API, Entity Framework Core, Naked Objects  
-**Frontend:** Angular, HTML/SCSS — _Learning:_ React, Svelte  
-**Cloud & DevOps:** Azure (App Services, Blob Storage, Cosmos DB, VMs), Azure DevOps, Git, PowerShell  
-**Security:** OWASP ZAP, insecure app design (college project)  
-**Testing:** Unit testing, integration testing, Swagger  
-**Tools:** Visual Studio, VS Code, Neovim, internal wikis
+**Backend (.NET)**
+
+- C#, ASP.NET Core, Web API
+- Entity Framework Core, LINQ
+- REST API development
+
+**Frontend**
+
+- TypeScript, HTML, CSS / SCSS
+- Angular
+- Familiar with React (basic), Svelte (basic)
+
+**Databases**
+
+- SQL, PostgreSQL, Azure Cosmos DB
+
+**DevOps & Tooling**
+
+- Git, Azure DevOps, CI/CD pipelines
+- PowerShell
+- Swagger, Unit & Integration Testing
+
+**Security (Academic)**
+
+- OWASP ZAP, secure coding fundamentals
+
+---
 
 ## Experience
 
-**Software Developer Intern**  
-: **Department of Social Protection, Sligo**  
-: **Apr 2023 – Sep 2023**
+### Software Developer Intern  
 
-- Developed backend functionality in C# using .NET Web API and the Naked Objects framework
-- Automated deployments and builds with Azure DevOps and PowerShell
-- Collaborated in Agile team workflows, participated in code reviews, and pair programming
-- Contributed to legacy system testing and documentation
+**Department of Social Protection**, Sligo  
+*Apr 2023 – Sep 2023*
 
-**Commis Chef**  
-: **Langs Bar & Restaurant, Grange**  
-: **Mar 2018 – Present**
+- Developed and maintained backend features using **C# and ASP.NET Core Web APIs**
+- Worked with **Entity Framework and LINQ** to query and update relational data
+- Assisted in building and testing **RESTful APIs**
+- Used **Git and Azure DevOps** for version control, builds, and deployments
+- Collaborated in an **Agile team**, including code reviews and pair programming
+- Contributed to testing, bug fixes, and internal technical documentation
 
-- Prepare ingredients and assist with food service
-- Work closely with a team where most speak English as a second language
-- Stay flexible during service and switch tasks quickly when needed
+### Commis Chef  
+
+**Langs Bar & Restaurant**, Grange  
+*Mar 2018 – Present*
+
+- Worked effectively in a **fast-paced, team-based environment**
+- Communicated daily with colleagues for whom English was a second language
+- Developed strong adaptability, time management, and problem-solving skills
+
+---
 
 ## Education
 
 **BSc (Hons) in Software Development**  
-: **Atlantic Technological University (ATU), Sligo**  
-: **Graduated: May 2024**
+Atlantic Technological University (ATU), Sligo  
+*Graduated: May 2024*
+
+---
 
 ## Projects
 
-**LogIt – Cross-Platform Workout Tracking App** _(In Progress)_  
-: React + Vite + Capacitor + SQLite + Tiptap
+### LogIt – Cross-Platform Workout Tracking App *(In Progress)*  
 
-- Full-stack workout journal and planner with offline-first support and optional self-hosting
-- Includes a custom Markdown-based editor and planned secure local data storage
-- Features drag-and-drop UI, dynamic workout templates, and split scheduling
-- Demonstrates modern tooling and cross-platform workflows
+**React, TypeScript, ASP.NET Core (planned), SQLite, Capacitor**
 
-**E-Learning App** _(Capstone Project)_  
-: Ionic Angular + Express API + Azure Cosmos DB
+- Offline-first workout journal and planner with optional self-hosting
+- Designed clean data models and API-ready architecture
+- Custom Markdown-based editor and dynamic workout templates
+- Demonstrates modern tooling and cross-platform development practices
 
-- Designed and deployed a mobile/web app for remote learning
-- Used Azure VMs and Blob Storage for hosting
-- Integrated CI/CD with Azure DevOps
+### E-Learning App *(Capstone Project)*  
+
+**Ionic Angular, Express API, Azure Cosmos DB**
+
+- Designed and deployed a mobile/web learning platform
+- Implemented backend APIs and cloud data storage
+- Integrated **CI/CD pipelines** using Azure DevOps
 - Explored scalability and cloud deployment strategies
 
-**Insecure Web App (PenTest Project)**  
-: Angular + .NET Web API + PostgreSQL + OWASP ZAP
+### Insecure Web App *(Security Project)*  
 
-- Created a vulnerable app to explore web security fundamentals
-- Performed manual penetration tests and used ZAP for vulnerability scanning
-- Wrote a full remediation and threat report as part of a college project
+**Angular, ASP.NET Web API, PostgreSQL, OWASP ZAP**
 
-## References
+- Built a deliberately vulnerable web application to study security flaws
+- Performed manual penetration testing and automated scans with ZAP
+- Produced a remediation and threat analysis report
 
-Available upon request
+---
+
+## Availability
+
+Available for **full-time, remote, or hybrid roles**.  
+References available upon request.
