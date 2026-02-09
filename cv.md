@@ -1,76 +1,94 @@
 # Martin Melody
 
-**Location:** Grange, Co. Sligo
-**Phone:** 085 222 3342  
-**Email:** <martinmelody.work@gmail.com>  
-**GitHub:** [https://github.com/MartinMelody](https://github.com/MartinMelody)  
-**LinkedIn:** [https://www.linkedin.com/in/martinmelody/](https://www.linkedin.com/in/martinmelody/)
-**Portfolio:** [https://martin-melody.ie](https://martin-melody.ie)
+Grange, Co. Sligo, Ireland · 085 222 3342 · <martinmelody.work@gmail.com>  
+[Github](https://github.com/Martin-Melody) · [LinkedIn](https://www.linkedin.com/in/martinmelody/) · [Portfolio](https://martin-melody.ie)
+
+---
 
 ## Professional Summary
 
-Software development graduate with strong foundations in C#, .NET Core, and Angular. Experience with Azure DevOps, CI/CD pipelines, and full-stack development across academic, personal, and professional projects. Completed a 6-month internship at the Department of Social Protection in Sligo, contributing to backend development, DevOps automation, and Agile team collaboration. Currently building _LogIt_, a cross-platform workout tracking app using modern tooling.
+Frontend-capable software developer with a strong systems and backend foundation. Daily Linux user for both development and server-side work. Experienced with Angular, TypeScript, and modern frontend tooling, alongside C# and API-driven systems. Comfortable working across frontend, backend, and infrastructure boundaries in Agile teams. Particularly interested in building maintainable, long-lived SaaS products and learning deeply how complex systems operate end to end.
+
+---
 
 ## Technical Skills
 
-**Languages:** C#, TypeScript, SQL, LINQ, HTML, SCSS  
-**Backend:** ASP.NET Core, Web API, Entity Framework Core, Naked Objects  
-**Frontend:** Angular, HTML/SCSS — _Learning:_ React, Svelte  
-**Cloud & DevOps:** Azure (App Services, Blob Storage, Cosmos DB, VMs), Azure DevOps, Git, PowerShell  
-**Security:** OWASP ZAP, insecure app design (college project)  
-**Testing:** Unit testing, integration testing, Swagger  
-**Tools:** Visual Studio, VS Code, Neovim, internal wikis
+**Frontend:** Angular, TypeScript, HTML5, CSS3 / SCSS, React, Svelte  
+**Backend:** C#, ASP.NET Core, REST APIs, Entity Framework Core, LINQ  
+**Databases:** SQL, PostgreSQL, SQLite, Azure Cosmos DB  
+**DevOps & Tooling:** Linux (daily), Git, CI/CD pipelines, Azure DevOps, AWS, PowerShell  
+**Testing & Quality:** Unit and integration testing, OWASP ZAP, Swagger
+
+---
 
 ## Experience
 
-**Software Developer Intern**  
-: **Department of Social Protection, Sligo**  
-: **Apr 2023 – Sep 2023**
+### Technical Support / Systems Role — CBE, Ireland
 
-- Developed backend functionality in C# using .NET Web API and the Naked Objects framework
-- Automated deployments and builds with Azure DevOps and PowerShell
-- Collaborated in Agile team workflows, participated in code reviews, and pair programming
-- Contributed to legacy system testing and documentation
+_Jan 2026 – Present_
 
-**Commis Chef**  
-: **Langs Bar & Restaurant, Grange**  
-: **Mar 2018 – Present**
+- Support and configure software-driven EPOS and infrastructure systems in live environments
+- Troubleshoot production issues under real operational constraints
+- Work closely with technical teams and customers, strengthening system-level and communication skills
 
-- Prepare ingredients and assist with food service
-- Work closely with a team where most speak English as a second language
-- Stay flexible during service and switch tasks quickly when needed
+### Software Developer Intern — Department of Social Protection, Sligo
+
+_Apr 2023 – Sep 2023_
+
+- Developed backend features using C#, ASP.NET Core Web APIs, and SQL-based systems
+- Worked extensively with Entity Framework and LINQ in production codebases
+- Used Git and Azure DevOps for version control, builds, and automated deployments
+- Collaborated in an Agile team with code reviews, pair programming, and shared ownership
+
+---
 
 ## Education
 
-**BSc (Hons) in Software Development**  
-: **Atlantic Technological University (ATU), Sligo**  
-: **Graduated: May 2024**
+**BSc (Hons) Software Development**  
+Atlantic Technological University (ATU), Sligo — _May 2024_
+
+---
 
 ## Projects
 
-**LogIt – Cross-Platform Workout Tracking App** _(In Progress)_  
-: React + Vite + Capacitor + SQLite + Tiptap
+### LogIt 2.0 — Offline-First Cross-Platform SaaS App (In Progress)
 
-- Full-stack workout journal and planner with offline-first support and optional self-hosting
-- Includes a custom Markdown-based editor and planned secure local data storage
-- Features drag-and-drop UI, dynamic workout templates, and split scheduling
-- Demonstrates modern tooling and cross-platform workflows
+_SvelteKit, TypeScript, SQLite, Capacitor_
 
-**E-Learning App** _(Capstone Project)_  
-: Ionic Angular + Express API + Azure Cosmos DB
+- Designing and building a mobile-first, offline-capable SaaS-style application
+- Implemented local persistence with SQLite and clearly defined sync-ready boundaries
+- Built structured domain models for workouts, scheduling, and long-term data integrity
+- Focused on maintainability, predictable state, and clean separation between UI and logic
 
-- Designed and deployed a mobile/web app for remote learning
-- Used Azure VMs and Blob Storage for hosting
-- Integrated CI/CD with Azure DevOps
-- Explored scalability and cloud deployment strategies
+### Loom — Modular Backend System
 
-**Insecure Web App (PenTest Project)**  
-: Angular + .NET Web API + PostgreSQL + OWASP ZAP
+_C#, .NET, PostgreSQL_
 
-- Created a vulnerable app to explore web security fundamentals
-- Performed manual penetration tests and used ZAP for vulnerability scanning
-- Wrote a full remediation and threat report as part of a college project
+- Built a modular backend application using layered architecture principles
+- Applied dependency injection and strict separation of concerns
+- Designed and managed a PostgreSQL schema with a mix of ORM and hand-written SQL
+- Optimised for maintainability, extensibility, and long-term evolution
 
-## References
+### Personal Portfolio Website
 
-Available upon request
+_SvelteKit, TypeScript, GitHub Actions, GitHub Pages_
+
+- Designed and built a personal developer website using SvelteKit
+- Implemented automated builds and deployments via GitHub Actions
+- Deployed publicly with a custom domain (martin-melody.ie)
+- Focused on performance, simplicity, and long-term maintainability
+
+### Insecure Web Application — Security-Focused Project
+
+_Angular, ASP.NET Web API, PostgreSQL_
+
+- Built a deliberately vulnerable web application to study common security flaws
+- Performed manual testing and automated scans using OWASP ZAP
+- Produced a full remediation and threat analysis report
+
+---
+
+## Availability
+
+Open to full-time, hybrid, or partially remote roles  
+References available on request
