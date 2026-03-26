@@ -1,76 +1,83 @@
 # Martin Melody
 
-**Location:** Grange, Co. Sligo
+**Location:** Grange, Co. Sligo  
 **Phone:** 085 222 3342  
 **Email:** <martinmelody.work@gmail.com>  
-**GitHub:** [https://github.com/Martin-Melody](https://github.com/Martin-Melody)  
-**LinkedIn:** [https://www.linkedin.com/in/martinmelody/](https://www.linkedin.com/in/martinmelody/)
-**Portfolio:** [https://martin-melody.ie](https://martin-melody.ie)
+**GitHub:** <https://github.com/MartinMelody>  
+**LinkedIn:** <https://www.linkedin.com/in/martinmelody>  
+**Portfolio:** <https://martin-melody.ie>
 
 ## Professional Summary
 
-Software development graduate with strong foundations in C#, .NET Core, and Angular. Experience with Azure DevOps, CI/CD pipelines, and full-stack development across academic, personal, and professional projects. Completed a 6-month internship at the Department of Social Protection in Sligo, contributing to backend development, DevOps automation, and Agile team collaboration. Currently building _LogIt_, a cross-platform workout tracking app using modern tooling.
+Software Development graduate currently working as a Systems Installation Engineer. Experience installing systems, troubleshooting technical issues, and working with Windows, Linux, and networking. I also run a personal home lab where I manage servers, networking, and self‑hosted services to build practical infrastructure experience.
 
 ## Technical Skills
 
-**Languages:** C#, TypeScript, SQL, LINQ, HTML, SCSS  
-**Backend:** ASP.NET Core, Web API, Entity Framework Core, Naked Objects  
-**Frontend:** Angular, HTML/SCSS — _Learning:_ React, Svelte  
-**Cloud & DevOps:** Azure (App Services, Blob Storage, Cosmos DB, VMs), Azure DevOps, Git, PowerShell  
-**Security:** OWASP ZAP, insecure app design (college project)  
-**Testing:** Unit testing, integration testing, Swagger  
-**Tools:** Visual Studio, VS Code, Neovim, internal wikis
+**Systems:** Windows, Linux, hardware installation, troubleshooting  
+**Networking:** TCP/IP, DNS, DHCP fundamentals  
+**Infrastructure:** Docker, self‑hosting, reverse proxies, VPN setup  
+**Development:** C#, ASP.NET Core, Entity Framework, Angular, TypeScript  
+**Tools:** Git, Azure DevOps, VS Code, Neovim
 
 ## Experience
+
+**Systems Installation Engineer**  
+: **CBE**  
+: **Current**
+
+- Install and configure technical systems
+- Troubleshoot installation and configuration issues
+- Work on‑site as part of installation projects
+- Document completed technical work
 
 **Software Developer Intern**  
 : **Department of Social Protection, Sligo**  
 : **Apr 2023 – Sep 2023**
 
-- Developed backend functionality in C# using .NET Web API and the Naked Objects framework
-- Automated deployments and builds with Azure DevOps and PowerShell
-- Collaborated in Agile team workflows, participated in code reviews, and pair programming
-- Contributed to legacy system testing and documentation
+- Developed backend functionality in C# using .NET Web API
+- Automated build processes with PowerShell and Azure DevOps
+- Tested legacy systems and wrote documentation
+- Worked in Agile team environment
 
 **Commis Chef**  
 : **Langs Bar & Restaurant, Grange**  
 : **Mar 2018 – Present**
 
-- Prepare ingredients and assist with food service
-- Work closely with a team where most speak English as a second language
-- Stay flexible during service and switch tasks quickly when needed
+- Work in fast paced team environment
+- Manage time during busy service periods
+- Communicate clearly with team members
+
+## Infrastructure Experience (Personal)
+
+Personal home lab used to develop systems knowledge.
+
+- Manage Linux servers
+- Run services using Docker
+- Configure DNS and networking
+- Set up reverse proxies
+- Configure WireGuard VPN
+- Troubleshoot service and network issues
 
 ## Education
 
-**BSc (Hons) in Software Development**  
-: **Atlantic Technological University (ATU), Sligo**  
-: **Graduated: May 2024**
+**BSc (Hons) Software Development**  
+: **Atlantic Technological University Sligo**  
+: **Graduated 2024**
 
 ## Projects
 
-**LogIt – Cross-Platform Workout Tracking App** _(In Progress)_  
-: React + Vite + Capacitor + SQLite + Tiptap
+**LogIt** _(In progress)_  
+: React, Capacitor, SQLite
 
-- Full-stack workout journal and planner with offline-first support and optional self-hosting
-- Includes a custom Markdown-based editor and planned secure local data storage
-- Features drag-and-drop UI, dynamic workout templates, and split scheduling
-- Demonstrates modern tooling and cross-platform workflows
+- Workout tracking app with offline support
+- Local data storage and custom editor features
 
-**E-Learning App** _(Capstone Project)_  
-: Ionic Angular + Express API + Azure Cosmos DB
+**E‑Learning App**  
+: Ionic Angular, Azure
 
-- Designed and deployed a mobile/web app for remote learning
-- Used Azure VMs and Blob Storage for hosting
-- Integrated CI/CD with Azure DevOps
-- Explored scalability and cloud deployment strategies
-
-**Insecure Web App (PenTest Project)**  
-: Angular + .NET Web API + PostgreSQL + OWASP ZAP
-
-- Created a vulnerable app to explore web security fundamentals
-- Performed manual penetration tests and used ZAP for vulnerability scanning
-- Wrote a full remediation and threat report as part of a college project
+- Mobile and web learning platform
+- Cloud hosting and CI/CD setup
 
 ## References
 
-Available upon request
+Available on request
